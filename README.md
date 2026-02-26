@@ -87,4 +87,4 @@ Options:
 
 ## License
 
-Apache-2.0 © Avatar Consulting
+Apache-2.0 © Satyan Avatara
