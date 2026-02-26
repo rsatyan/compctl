@@ -1,6 +1,6 @@
 {
   "name": "compctl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lending compliance checks (TRID, ATR/QM, HMDA, ECOA) - part of the LendCtl Suite",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
